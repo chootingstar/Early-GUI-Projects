@@ -1,10 +1,12 @@
+import javax.swing.JFrame;
+
 public class GGGUIWorks extends JFrame{
 
 	//public variables
 
 	
 
-	public something GUI constructor {
+	public void GUI() {
 
 	//Has the basis of the gui
 
@@ -39,3 +41,4 @@ public class GGGUIWorks extends JFrame{
 	//When user succeeds displays success
 
 	}
+}
